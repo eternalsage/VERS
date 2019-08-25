@@ -1,0 +1,6 @@
+Title:          VERS Core Rulebook
+Subtitle:       Variable Environment Roleplay System
+Genre:          Tabletop RPG rules
+License:        CC-BY-SA 4.0
+Author:         Jason Murray
+Email:          jason@versrpg.org

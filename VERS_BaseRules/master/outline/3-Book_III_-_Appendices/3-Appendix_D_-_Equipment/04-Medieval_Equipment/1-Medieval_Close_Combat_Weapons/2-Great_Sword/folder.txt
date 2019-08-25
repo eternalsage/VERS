@@ -1,0 +1,6 @@
+title:          Great Sword
+ID:             1014
+type:           folder
+compile:        2
+
+

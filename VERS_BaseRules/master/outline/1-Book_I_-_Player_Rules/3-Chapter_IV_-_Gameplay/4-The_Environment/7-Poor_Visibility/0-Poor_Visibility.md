@@ -1,0 +1,9 @@
+title:          Poor Visibility
+ID:             335
+type:           md
+compile:        2
+
+
+When adventuring a character will often find themselves in situations where they cannot see very well, either because of poor lighting, fog, or more exotic reasons. Darkness gives a -2 penalty to Perception for a normally lit modern city night, or a -4 for an ancient city. In the modern countryside where lighting is much more scarce, character’s take a -6 penalty. Wilderness and ancient farmland gives a -8. The inside of a cave or other dark enclosed area makes vision impossible without aid. A clear starry night gives a +1 bonus, and a full moon gives a +2, although these bonuses to not apply in modern cities, as the light pollution is too great for the night sky to even be visible, let alone aide vision.
+
+Fog and other forms of weather induced vision loss act as a range penalty on sight. Light fog or moderate rain or snow gives a -1 per 5 meters. Moderate fog or heavy rain or snow gives a -2 per 5 meters. Heavy fog is nearly impenetrable, giving a whopping -4 per 5 meters. In these instances hearing also takes a penalty equal to half the penalty for vision in the case of fog or snow and the same penalty for rain. Characters with advanced senses of smell double the penalties for precipitation. Also, a heavy rain can easily wash away a scent trail, maintaining those penalties on tracking by scent even after the weather has changed. Wind also gives a penalty to hearing and smell, a -1 for a medium wind, a -2 for high wind, and -4 for a gale force winds. Poor visibility penalties also apply to Survival rolls.

@@ -1,0 +1,9 @@
+title:          Rolling
+ID:             1255
+type:           md
+compile:        2
+
+
+All rolls in VERS are what is referred to as “roll under.” This means that lower results on the dice are better. While this may seem counterintuitive at first it will quickly become second nature. Rolls have what is called a competence target  (aka CT), equal to the largest roll result that will yield a success. This value is derived by adding the ranks of the relevant attributes and/or skills to the base target of 10. For example, a character who needs to move a huge boulder that is blocking the path needs to make a Strength roll. She has 3 ranks of Strength, so she would have a competence target for her roll of “13/-” (read as 13 or less). To determine whether the character succeeds or not, the player simply rolls 3d6, adds any penalties, and compares the result with the competence target for that action. If the modified result is less than or equal to than the CT the action is successful. That is literally the way every roll in the system is done, with just one simple mechanic.
+
+VERS is unique in that all dice rolls are made by the players. In other words, if the player’s character is performing an action against another (non-player) character, the player rolls the dice. The target character is represented as a penalty to that single roll. If another character is performing an action against the player character, the player character makes the reactive roll. Again, the attacker is represented as a penalty to that reactive roll. In this way, the entire game is player centric; the success or failure of all of their endeavors rests in their hands.

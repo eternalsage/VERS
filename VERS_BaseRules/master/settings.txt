@@ -1,0 +1,103 @@
+{
+    "autoSave": true,
+    "autoSaveDelay": 5,
+    "autoSaveNoChanges": true,
+    "autoSaveNoChangesDelay": 30,
+    "corkBackground": {
+        "color": "#926239",
+        "image": "writingdesk"
+    },
+    "corkSizeFactor": 100,
+    "corkStyle": "new",
+    "defaultTextType": "md",
+    "dict": "en_US",
+    "dontShowDeleteWarning": true,
+    "folderView": "text",
+    "frequencyAnalyzer": {
+        "phraseMax": 5,
+        "phraseMin": 2,
+        "wordExclude": "a, and, or",
+        "wordMin": 1
+    },
+    "fullScreenTheme": "gentleblues",
+    "fullscreenSettings": {
+        "autohide-bottom": true,
+        "autohide-left": true,
+        "autohide-top": true
+    },
+    "lastTab": 6,
+    "openIndexes": [
+        0,
+        [
+            "1320"
+        ],
+        null
+    ],
+    "outlineViewColumns": [
+        0,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13,
+        7
+    ],
+    "revisions": {
+        "keep": false,
+        "rules": {
+            "2592000": 86400.0,
+            "3600": 600.0,
+            "600": 60.0,
+            "86400": 3600.0,
+            "null": 604800.0
+        },
+        "smartremove": true
+    },
+    "saveOnQuit": true,
+    "saveToZip": false,
+    "spellcheck": true,
+    "textEditor": {
+        "alwaysCenter": false,
+        "background": "#ffffff",
+        "backgroundTransparent": false,
+        "cursorNotBlinking": false,
+        "cursorWidth": 1,
+        "focusMode": "paragraph",
+        "font": "Source Code Pro,12,-1,5,50,0,0,0,0,0",
+        "fontColor": "#000000",
+        "indent": true,
+        "lineSpacing": 100,
+        "marginsLR": 20,
+        "marginsTB": 20,
+        "maxWidth": 1200,
+        "misspelled": "#F00",
+        "spacingAbove": 5,
+        "spacingBelow": 5,
+        "tabWidth": 50,
+        "textAlignment": 3
+    },
+    "viewMode": "fiction",
+    "viewSettings": {
+        "Cork": {
+            "Background": "Nothing",
+            "Border": "Nothing",
+            "Corner": "Label",
+            "Icon": "Nothing",
+            "Text": "Nothing"
+        },
+        "Outline": {
+            "Background": "Nothing",
+            "Icon": "Nothing",
+            "Text": "Compile"
+        },
+        "Tree": {
+            "Background": "Nothing",
+            "Icon": "Nothing",
+            "InfoFolder": "Nothing",
+            "InfoText": "Nothing",
+            "Text": "Compile",
+            "iconSize": 24
+        }
+    }
+}

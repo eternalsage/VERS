@@ -1,0 +1,6 @@
+title:          Heavy Rifle (Battle Rifle)
+ID:             911
+type:           folder
+compile:        2
+
+

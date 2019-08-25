@@ -1,0 +1,6 @@
+title:          Light Rifle (Automatic Rifle)
+ID:             910
+type:           folder
+compile:        2
+
+

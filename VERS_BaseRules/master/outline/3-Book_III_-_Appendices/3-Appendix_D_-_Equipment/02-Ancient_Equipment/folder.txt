@@ -1,0 +1,6 @@
+title:          Ancient Equipment
+ID:             1060
+type:           folder
+compile:        2
+
+

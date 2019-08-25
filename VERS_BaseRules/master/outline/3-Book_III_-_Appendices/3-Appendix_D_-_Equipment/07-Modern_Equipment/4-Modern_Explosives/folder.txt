@@ -1,0 +1,6 @@
+title:          Modern Explosives
+ID:             893
+type:           folder
+compile:        2
+
+

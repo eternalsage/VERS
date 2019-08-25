@@ -1,0 +1,14 @@
+title:          Introduction
+ID:             40
+type:           md
+compile:        2
+
+
+The Variable Environment Roleplay System (or VERS, as we like to refer to it) is our advanced tabletop role-playing game rule-set. With it you can create literally anything that you can imagine. VERS is designed to make an extremely flexible and robust roleplaying system fit for absolutely any style of game and make it simple enough that you can learn the entire system in one day. The end result, we hope you will agree, is streamlined and efficient, using only three six-sided dice, a pencil, and your imagination.
+Basics
+In order to tell this co-operative story, the GM and the players agree to use a set of rules to ensure that every player has an equal chance to have fun and no one can steal the show. One such ruleset is detailed in this very book, called VERS. Every rule-set has its own peculiarities, but one thing that most share is the use of dice to maintain fairness. VERS uses three six-sided dice (referred to as 3d6 by those familiar with these types of games) for all rolls, regardless of purpose.
+Once you have read through this book and created a character, you will be ready to take part in an adventure. While this may sound intimidating at this point, all adventures really come down to the same thing: a group of friends taking turns to tell a story. The GM will describe a scene, and the players will take turns to describe what their characters do. The GM will describe the outcome of these actions, and the players will take turns reacting to these new events. Slowly these chunks of action will become something that more closely resembles a story as everyone gets more invested in the proceedings, and thus you are playing a roleplaying game!
+Core Rules
+The core rules of VERS are designed to be easy to understand and use, so much so that you could be ready to run in just a few hours. At their most basic, every character is made of four core things: Attributes that define her inborn talents; Skills that define the things learned in life; Abilities that define any extraordinary or unnatural gifts beyond the norm; and finally Flaws that define shortcomings and weaknesses. Beyond these four things there is quite a bit of room for additional fleshing out of characters, and a handful of suggested Optional Rules will also be presented.
+Special Note
+Throughout the course of this text the usage of the third person pronouns he and his will be interspersed with she and hers. It is not our intention to fuel any debates on traditional grammar in the English language and modern concepts of personhood, but it is also our belief that the he/she and his/her compromises are both hideous to look at and horrid to read. We won't be counting instances of the use of said pronouns but efforts will be made to ensure roughly equal usage. Also, all persons referenced in this text are fictitious.

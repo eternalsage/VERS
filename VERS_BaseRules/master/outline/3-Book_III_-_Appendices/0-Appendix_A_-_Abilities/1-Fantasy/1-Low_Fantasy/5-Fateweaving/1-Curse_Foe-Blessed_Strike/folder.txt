@@ -1,0 +1,6 @@
+title:          Curse Foe/Blessed Strike
+ID:             1171
+type:           folder
+compile:        2
+
+

@@ -1,0 +1,6 @@
+title:          Combat Shotgun
+ID:             913
+type:           folder
+compile:        2
+
+

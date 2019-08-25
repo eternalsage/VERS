@@ -1,0 +1,6 @@
+title:          Japanese Equipment
+ID:             1095
+type:           folder
+compile:        2
+
+

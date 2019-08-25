@@ -1,0 +1,13 @@
+title:          Alternative Turn Order
+ID:             627
+type:           md
+compile:        2
+
+
+
+
+The order of turns in VERS is a fluid, constantly changing thing. On the first Turn of a battle, each of the character’s state their reasoning for going first, such as high Agility or Intuition, a precognitive or luck ability, or maybe a story reason such as the villain having killed the NPC he was responsible for. Each character can only present one reason why her character should go first, and as a general rule of thumb story reasons beat abilities, which beat attributes, which beat skills, although each combat is different and a totally valid reason to go first is “I haven’t gone first yet tonight.” It is the GM’s duty to be fair and keep everyone having fun, and that also means that sometimes the bad guys get to go first, such as an ambush or the like.
+
+Once the table has decided as a group who goes first based on these factors, the battle begins with each player deciding the next player’s turn until all the players and the GM have played their actions. The last player of the Turn chooses the first player of the next Turn, which can include himself. The cycle just continues from here until the battle is either won or lost. It is important to note that only for the first Turn is the first action of the Turn up for debate.
+
+As an example, let’s imagine a game in which Carter is the GM and Valerie, Susan, Peter, and Steven are the players. The troop has chased the villain back to his lair and the combat begins. To determine who goes first, each decides what reason they are going to put forth for their characters. Starting with the GM, Carter says that the villain is on his home turf, so he should go first. Valerie goes next, saying her character is a mentalist with a danger sense that alerts her to trouble before it happens. Susan says that her character has amazing Agility as a cyborg super soldier. Peter states that it was his gadgeteer’s homing beacon that lead them here. Steven says his character is a speedster so he should go first because he’s the fastest. The group decides that since the villain is on the defensive Carter isn’t first, and Steven’s already gone first earlier in the night. Peter’s character doesn’t often get to go first because he is a fairly normal human outside of his technology tricks, so they decide this is a great opportunity to let him shine for once. After his turn, he chooses Valerie, who then chooses Steven, who then decides to Susan go next because she says she has a plan. The last one to act is the GM, and Carter decides that he gets to go first next Turn as well, dishing out two turns worth of damage in a short time. He then chooses Steven, and so forth.
